@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Platform Frontend"
+  short_description: "Elite Apple UI implementation specialist"
+  default_prompt: "Use $apple-platform-frontend to implement native-feeling, accessible, HIG-aligned Apple UI with SwiftUI-first decisions, strong platform fit, and updated previews or snapshots where needed."
